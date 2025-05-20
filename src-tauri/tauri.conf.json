@@ -38,7 +38,10 @@
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDY5Nzg3Q0MwN0QyQUM3RTgKUldUb3h5cDl3SHg0YWZEdy9OelYxY3E2Mk44bVVSZGdjR0NsTy8wUlUvaUprdFo4VjB6YmJoZ0wK",
       "endpoints": [
         "https://www.reayu.com/latest.json"
-      ]
+      ],
+      "windows": {
+        "installMode": "passive"
+      }
     }
   }
 }
